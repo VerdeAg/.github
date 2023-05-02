@@ -1,3 +1,3 @@
 ## Verde Tech
 
-![Banner com logotipo completo da Verde.](banner.jpg)
+![Banner com logotipo completo da Verde.](profile/banner.jpg)
